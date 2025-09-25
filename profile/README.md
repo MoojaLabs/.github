@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Links
 
-* **Live Mobile Demo:** [Open in Appetize](https://appetize.io/app/b_p3fheprhq3wq6cmkjraieoioia) (no install needed)
+* **Live Mobile Demo:** [Open in Appetize](https://appetize.io/app/b_vneagh6iro3ck2qydt6nkmwhuy) (no install needed)
 * **Main Website:** [mooja.app](https://mooja.app)
 * **Tech Repos:** [Mobile](https://github.com/MoojaLabs/mooja-mobile) • [Server](https://github.com/MoojaLabs/mooja-server) • [Admin Dashboard](https://github.com/MoojaLabs/mooja-admin)
 
